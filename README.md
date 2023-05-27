@@ -1,1 +1,1 @@
-# seminario_ufpe_ia
+# seminario_uepb_ia
